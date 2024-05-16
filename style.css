@@ -24,4 +24,18 @@ footer.container{
 .brand-image {
     margin: 10px;
 }
+.main {
+    height: 500px;
+    width: 100%;
+    background-image: url('images/pexels-andreimike-1271619.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: gray;
+}
 
+.content {
+    color: white;
+    text-align: center;
+    padding-top: 20%;
+}
